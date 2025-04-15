@@ -1,4 +1,5 @@
-🛍️ Sentiment Analysis on E-Commerce Reviews
+#**🛍️ Sentiment Analysis on E-Commerce Reviews**
+
 This project focuses on analyzing customer sentiments from user reviews in the E-commerce domain using Natural Language Processing (NLP) techniques and a Random Forest classifier. The goal is to extract valuable insights from customer feedback to assist businesses in improving customer satisfaction, product offerings, and overall service quality.
 
 📌 Project Objectives
